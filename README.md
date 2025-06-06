@@ -1,5 +1,6 @@
 # skills-tracker
 A public review of structured learning paths across multiple platforms.
+<<<<<<< HEAD
 
 # 🧠 Learning in Public: The Dev Journey Log
 
@@ -48,3 +49,5 @@ I’m a self-directed developer focused on full stack tools, secure systems, and
 ---
 
 📌 Want to see the bigger picture? [Follow me on GitHub](https://github.com/promptmike) or reach out via my site (coming soon).
+=======
+>>>>>>> 839fc121e18dc9c55757ddb4d543a245ec173214
