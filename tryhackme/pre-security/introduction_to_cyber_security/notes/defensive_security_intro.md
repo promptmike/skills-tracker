@@ -39,7 +39,7 @@ Consistent network monitoring, maintenance and enforcement of secure practices p
 One task that SOCs must do is Threat Intelligence.
 A SOC monitors assets on a network, patches regularly and enforces secure practices to prevent, detect and mitigate threats quickly.
 
-### Threat Intelligence
+#### Threat Intelligence
 
 Threat Intelligence refers to the information you gather about your actual and potential attackers.
 SOC must continually collect Threat Intelligence and respond to it with patching, monitoring, policy and response to detected threats.
@@ -117,3 +117,38 @@ Analyse threats at every level to inform a preparation, detection and response s
 
 Dynamic Malware Analysis works by running Malware in a controlled environment to observe its behaviour.
 Forensically analyse Incidents across the network and gather Threat Intelligence to inform a prevention, detection and response strategy.
+
+## Task 3 - Practical Example of Defensive Security
+
+### The Scenario
+
+Pretend you are a SOC Analyst watching a Security Information and Event Management (SIEM) dashboard.
+Conduct DFIR and use tools such as SIEMs for SOC Analysis to develop Threat Intelligence and prepare a security response.
+
+As a SOC Analyst you must determine which alerts are harmful.
+Conduct Digital Forensics and Analyse alerts on your SIEM to develop Threat Intelligence and informed Incident Response.
+
+Some alerts are harmless mistakes such as a user forgetting their password.
+Develop Threat Intelligence and discern harmful Incidents to inform DFIR.
+
+An unknown IP address could be a new user or a malicious attacker.
+Develop Threat Intelligence and identify the nature of Incidents to inform DFIR.
+
+### Simulating a SIEM
+
+THM offers virtual SIEMs to practice detection, analysis and response.
+Practice developing Threat Intelligence and identifying the nature of Incidents in a safe environment and learn to inform DFIR.
+
+The View Site button starts the virtual SIEM.
+Practice developting Threat Intelligence and identifying the nature of Incidents safely on a remote machine to learn how to inform DFIR.
+
+The Static Site contains a flag for you to capture.
+Practice Threat Intelligence and SOC Analysis of Incidents in safe CTF challenges to learn how to inform DFIR operations.
+
+### What's next?
+
+The information covered here is the foundation of Blue Teaming.
+Practice Threat Intelligence, SOC Analysis, DFIR and Malware Analysis in safe CTF challenges as the foundation for Blue Teaming.
+
+The room Search Skills is recommended as the next step.
+Continue to practice Threat Intelligence, SOC Analysis, DFIR, Malware Analysis and other foundational skills in a safe CTF environment.

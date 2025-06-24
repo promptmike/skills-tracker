@@ -45,6 +45,26 @@ This log is a way to:
 
 I’m a self-directed developer focused on full stack tools, secure systems, and the implications of AI on learning, freedom, and infrastructure. This repo complements my practice projects, portfolio, and certification tracks.
 
----
+## 📌 A Note on Notes
 
-📌 Want to see the bigger picture? [Follow me on GitHub](https://github.com/promptmike) or reach out via my site (coming soon).
+My note-taking strategy may look unusual if you haven't experienced it before, but it's designed for long-term retention, not just passive review. The core idea is simple: memory strengthens when we process information actively, in our own words. To that end, I use the following approach for all technical and conceptual material:
+
+1. Read one paragraph
+2. Summarise the paragraph in a single sentence—short enough to fit on one line
+3. Write another one-line summary capturing the overall progress so far (book, module, room, etc.)
+4. Repeat for each new paragraph
+
+This creates paired summary sentences for every concept. It may appear repetitive, but repetition is intentional — it forces active recall and strengthens understanding through concise restatement.
+
+_Note: This method feels slow initially, but saves time in the long run by reducing the need to re-read material before exams or reviews. With practice, summarising becomes fast and instinctive._
+
+### 📚 Reviewing Summary Pair Notes
+
+Another key principle of learning is that forgetting isn't failure—it's part of the process. Memory improves when we forget, then get reminded. Think of how you effortlessly remember your favourite band's discography—not because you studied it, but because you were repeatedly reminded by listening.
+
+The same applies here:
+- Leave your notes untouched long enough to partially forget them
+- Review them later—the sensation of "remembering forgotten things" accelerates long-term retention
+- This spaced reminder effect builds knowledge that lasts.
+
+*Further Reading:* For a deeper dive into this method, watch [this video by Dr. Jeffrey Kaplan](https://www.youtube.com/watch?v=uiNB-6SuqVA)
