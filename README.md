@@ -67,4 +67,4 @@ The same applies here:
 - Review them later—the sensation of "remembering forgotten things" accelerates long-term retention
 - This spaced reminder effect builds knowledge that lasts.
 
-*Further Reading:* For a deeper dive into this method, watch [this video by Dr. Jeffrey Kaplan](https://www.youtube.com/watch?v=uiNB-6SuqVA)
+**Further Reading:** For a deeper dive into this method, watch [this video by Dr. Jeffrey Kaplan](https://www.youtube.com/watch?v=uiNB-6SuqVA)

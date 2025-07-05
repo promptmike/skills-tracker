@@ -77,7 +77,7 @@ Hardware and software accross the whole network must be studied forensically alo
 
 #### Incident Response
 
-_Incident_ refers not only to attacks, but to all insecure events such as policy violations or misconfigurations.
+*Incident* refers not only to attacks, but to all insecure events such as policy violations or misconfigurations.
 Forensic data, Threat Intelligence and Incident Response all contribute to strong security.
 
 There are four main stages of Incident Response.
