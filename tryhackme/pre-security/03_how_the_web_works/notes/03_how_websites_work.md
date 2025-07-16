@@ -22,20 +22,14 @@ Servers process Back-End data and send Front-End HTML, CSS and Javascript to you
 HTML is the basic language web pages are written in, and it consists of tags telling your Browser how to handle content.
 Servers process Back-End data and sent Front-End HTML to your Browser to give it the page layout, with CSS and Javascript for additional data.
 
-__`<html>`__
-
-      __`<head>`__
-
-            __`<title>Page Title</title>`__
-
-      __`<head>`__
-
-      __`<body>`__
-
-            __`<h1>Example Heading<h1>`__
-
-            __`<p>Example Paragraph..</p>`__
-
-      __`</body>`__
-      
-__`</html>`__
+```
+<html>
+      <head>
+            <title>Page Title</title>
+      <head>
+      <body>
+            <h1>Example Heading<h1>
+            <p>Example Paragraph..</p>
+      </body>
+</html>
+```
